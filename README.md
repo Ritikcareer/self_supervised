@@ -7,7 +7,7 @@ This is a [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightn
 - [BYOL](https://arxiv.org/abs/2006.07733)
 - [EqCo](https://arxiv.org/abs/2010.01929)
 - [VICReg](https://arxiv.org/abs/2105.04906)
-
+jhsygdhedsfyuefudy
 Supported datasets: ImageNet, STL-10, and CIFAR-10.
 
 During training, the top1/top5 accuracies (out of 1+K examples) are reported where possible. During validation, an `sklearn` linear classifier is trained on half the test set and validated on the other half. The top1 accuracy is logged as `train_class_acc` / `valid_class_acc`.
